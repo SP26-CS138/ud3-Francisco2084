@@ -1,0 +1,12 @@
+Sunset Cliffs,Easy,2.1,78
+San Diego Creek,Medium,7.2,127
+Torrey Pines,Easy,2.3,305
+Los Penasquitos Canyon,Medium,6.0,649
+Black Mountain,Medium,4.2,1253
+Cowles Mountain,Medium,2.9,912
+Iron Mountain,Medium,5.7,1115
+Potato Chip Rock,Hard,7.2,2125
+Three Sisters Falls,Hard,3.9,921
+Volcan Mountain,Hard,5.0,1236
+Cuyamaca Peak,Hard,7.4,1814
+El Cajon Mountain,Hard,11.3,3582
