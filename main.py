@@ -1,5 +1,6 @@
 '''
 DEVELOPER(S): Francisco Segovia
+Collaborator: Real Python website for help with methods
 DATE: 04/27/2026
 '''
 
